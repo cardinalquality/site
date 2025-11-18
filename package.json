@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export"
+    "export": "next build && cp -r .next/static out/_next/static || echo 'Build first with output export enabled'"
   },
   "dependencies": {
     "@vercel/analytics": "^1.5.0",

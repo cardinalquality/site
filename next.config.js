@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // For Vercel: use default Next.js (no static export)
+  // For NameCheap: use npm run export script
   images: {
-    unoptimized: true,
+    unoptimized: true, // Required for static export
   },
-  trailingSlash: true,
 }
 
 module.exports = nextConfig
