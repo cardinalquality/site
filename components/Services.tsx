@@ -6,37 +6,37 @@ export default function Services() {
       icon: HiClipboardCheck,
       title: 'Product & User Validation',
       description:
-        'Build user validation systems that surface critical feedback before launch. I help you recruit engaged beta programs, design feedback loops, and create frameworks that make user insights a shared input for roadmap decisions across engineering, product, and design.',
+        'Build company-wide user validation systems using Centercode and modern feedback frameworks. I helped Output establish beta programs that shaped MVP scope, informed roadmap priorities, and achieved executive adoption across departments—turning user insights into shared inputs for product decisions.',
     },
     {
       icon: HiUsers,
-      title: 'Engineering Leadership',
+      title: 'Engineering Leadership & OKRs',
       description:
-        'Scale your team with the leadership practices that turn individual contributors into high-performing units. From hiring frameworks to career development, I help you build QA organizations and coach teams through structured feedback that elevates performance and fosters growth.',
+        'Scale teams with VP-level reporting frameworks, OKR systems, and structured performance coaching. I build QA organizations from scratch, establish career frameworks, and translate analytics insights into prioritized backlogs that align engineering, product, and business goals.',
     },
     {
       icon: HiCog,
-      title: 'Release Systems',
+      title: 'Release Systems & Continuous Delivery',
       description:
-        'Stop release chaos with repeatable systems that give you confidence. I design release scorecards, risk assessment frameworks, and go/no-go decision models that connect test coverage, regression trends, and user sentiment to every deployment.',
+        'Transform release chaos into confidence with shift-left practices and continuous delivery pipelines. I design release scorecards, go/no-go frameworks, and risk dashboards that achieved 87% regression reduction and 99% crash-free rates through proactive prevention.',
     },
     {
       icon: HiLightBulb,
-      title: 'Test Strategy',
+      title: 'Test Strategy & AI-Assisted Workflows',
       description:
-        'Move beyond ad-hoc testing with strategic frameworks that scale. I help you build comprehensive test strategies, select the right automation tools, integrate CI/CD pipelines, and establish KPIs that track coverage, regressions, and quality trends.',
+        'Build modern test strategies using AI-powered workflows (ChatGPT, Claude, Cursor, n8n), LLM-based test generation, and intelligent automation. I help teams scale from zero to hundreds of tests integrated into CI/CD pipelines with clear KPIs tracking coverage and quality trends.',
     },
     {
       icon: HiHeart,
       title: 'Build a Quality Culture',
       description:
-        'Quality isn\'t just QA\'s job—it\'s everyone\'s. I help organizations establish company-wide quality standards, integrated workflows, and cross-functional collaboration models that make quality a shared responsibility across all teams.',
+        'Quality isn\'t just QA\'s job—it\'s everyone\'s. I help organizations establish company-wide quality standards, integrated workflows, and cross-functional collaboration models where engineering, product, and design share responsibility for customer outcomes.',
     },
     {
       icon: HiTrendingUp,
-      title: 'Scaling Teams & Talent',
+      title: 'Fractional Product & Process Leadership',
       description:
-        'Grow your team without losing effectiveness. I help you design team structures, hiring pipelines, and career frameworks that scale with your company. Transform underperformance through SMART goals and coaching that turns challenges into measurable improvement.',
+        'Embedded strategic leadership for growth-stage companies. I translate user research into roadmaps, shape 0-to-1 products, advocate for data-driven launch decisions, and build organizational transformation systems that scale quality and velocity together.',
     },
   ];
 

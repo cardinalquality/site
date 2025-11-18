@@ -3,17 +3,17 @@ export default function KeyAchievements() {
     {
       number: '94%',
       label: 'Reduction in New Bugs',
-      description: 'Through structured test plans and proactive prevention',
+      description: 'Through shift-left testing and proactive prevention systems',
     },
     {
-      number: '20+',
-      label: 'Years Experience',
-      description: 'Building systems at world-class companies',
+      number: '99%',
+      label: 'Crash-Free Rate',
+      description: 'Achieved through structured quality frameworks and continuous delivery',
     },
     {
-      number: '100%',
-      label: 'User-Centric',
-      description: 'Beta programs that shape product direction',
+      number: '87%',
+      label: 'Fewer Regressions',
+      description: 'By building release confidence scorecards and risk dashboards',
     },
   ];
 

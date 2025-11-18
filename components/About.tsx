@@ -34,20 +34,28 @@ export default function About() {
               </h2>
 
               <p>
-                I've spent <span className="font-semibold text-dark-text">20 years</span> building
-                quality systems at companies like Google, Fender, Native Instruments, EastWest, and Output.
-                What I've learned is this: great products don't come from heroic effort at the end—they
-                come from systems that make success repeatable.
+                I've spent <span className="font-semibold text-dark-text">15 years</span> as a product
+                and quality systems architect at companies like Fender, Native Instruments, EastWest, and
+                Output. With a <span className="font-semibold text-dark-text">B.S. in Electrical Engineering</span> from
+                the University of Miami, I bring a technical foundation to strategic product decisions—from
+                shaping 0-to-1 product launches to building company-wide validation frameworks.
               </p>
 
               <p>
-                I specialize in <span className="font-semibold text-dark-text">Agile transformations</span>,
-                building <span className="font-semibold text-dark-text">user validation programs</span> that
-                shape product direction, and creating{' '}
-                <span className="font-semibold text-dark-text">release systems</span> that turn chaos into
-                confidence. Whether it's achieving a{' '}
-                <span className="font-semibold text-primary-red">94% reduction in bugs</span> or establishing
-                beta programs from the ground up, I focus on frameworks that scale with your team.
+                My work focuses on <span className="font-semibold text-dark-text">shift-left practices</span>,
+                AI-powered QA workflows, and <span className="font-semibold text-dark-text">OKR frameworks</span> that
+                translate user insights into prioritized roadmaps. At Output, I reported directly to the VP of
+                Engineering, built beta programs using <span className="font-semibold text-dark-text">Centercode</span> that
+                shaped product direction, and achieved{' '}
+                <span className="font-semibold text-primary-red">94% reduction in bugs and 99% crash-free rates</span> through
+                structured prevention systems.
+              </p>
+
+              <p>
+                I've successfully advocated to drop undercooked features pre-launch based on data, championed
+                continuous delivery adoption, and built repeatable processes that teams actually follow. Whether
+                as <span className="font-semibold text-dark-text">Fractional Product & Process Lead</span> or strategic
+                advisor, I help organizations build systems where quality and velocity work together—not against each other.
               </p>
 
               <p>
