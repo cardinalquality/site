@@ -42,20 +42,19 @@ export default function About() {
               </p>
 
               <p>
-                My work focuses on <span className="font-semibold text-dark-text">shift-left practices</span>,
-                AI-powered QA workflows, and <span className="font-semibold text-dark-text">OKR frameworks</span> that
-                translate user insights into prioritized roadmaps. At Output, I reported directly to the VP of
-                Engineering, built beta programs using <span className="font-semibold text-dark-text">Centercode</span> that
-                shaped product direction, and achieved{' '}
-                <span className="font-semibold text-primary-red">94% reduction in bugs and 99% crash-free rates</span> through
+                My work focuses on <span className="font-semibold text-dark-text">Agile transformations</span>,
+                <span className="font-semibold text-dark-text">shift-left practices</span>, and{' '}
+                <span className="font-semibold text-dark-text">OKR frameworks</span> that translate user insights into
+                prioritized roadmaps. At Output, I reported directly to the VP of Engineering, built beta programs using{' '}
+                <span className="font-semibold text-dark-text">Centercode</span> that shaped product direction, and
+                achieved a <span className="font-semibold text-primary-red">94% reduction in bugs</span> through
                 structured prevention systems.
               </p>
 
               <p>
                 I've successfully advocated to drop undercooked features pre-launch based on data, championed
-                continuous delivery adoption, and built repeatable processes that teams actually follow. Whether
-                as <span className="font-semibold text-dark-text">Fractional Product & Process Lead</span> or strategic
-                advisor, I help organizations build systems where quality and velocity work together—not against each other.
+                continuous delivery adoption, and built repeatable processes that teams actually follow. I help
+                organizations build systems where quality and velocity work together—not against each other.
               </p>
 
               <p>

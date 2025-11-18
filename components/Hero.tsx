@@ -26,10 +26,9 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-              Product and quality systems that give engineering teams faster user insights,
-              predictable releases, and measurable impact. From shift-left testing to AI-assisted
-              workflows, I help you achieve{' '}
-              <span className="font-bold text-primary-red">94% fewer bugs and 99% crash-free rates</span>.
+              Product and quality systems built on Agile transformations, shift-left testing, and
+              user validation frameworks. Track record includes{' '}
+              <span className="font-bold text-primary-red">94% bug reduction and 99% crash-free rates</span>.
               Proven at Fender, Native Instruments, Output, and Offtop.
             </p>
 

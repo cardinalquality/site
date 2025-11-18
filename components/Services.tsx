@@ -22,9 +22,9 @@ export default function Services() {
     },
     {
       icon: HiLightBulb,
-      title: 'Test Strategy & AI-Assisted Workflows',
+      title: 'Test Strategy & Modern Tooling',
       description:
-        'Build modern test strategies using AI-powered workflows (ChatGPT, Claude, Cursor, n8n), LLM-based test generation, and intelligent automation. I help teams scale from zero to hundreds of tests integrated into CI/CD pipelines with clear KPIs tracking coverage and quality trends.',
+        'Build comprehensive test strategies using AI-assisted tools (ChatGPT, Claude, Cursor) to accelerate test creation, combined with proven automation frameworks (Playwright, Detox, Vitest). I help teams scale from zero to hundreds of tests in CI/CD pipelines with clear KPIs tracking coverage and quality trends.',
     },
     {
       icon: HiHeart,
@@ -34,9 +34,9 @@ export default function Services() {
     },
     {
       icon: HiTrendingUp,
-      title: 'Fractional Product & Process Leadership',
+      title: 'Strategic Product Leadership',
       description:
-        'Embedded strategic leadership for growth-stage companies. I translate user research into roadmaps, shape 0-to-1 products, advocate for data-driven launch decisions, and build organizational transformation systems that scale quality and velocity together.',
+        'Embedded leadership for growth-stage companies. I translate user research into roadmaps, shape 0-to-1 products, advocate for data-driven launch decisions, and build organizational transformation systems that scale quality and velocity together.',
     },
   ];
 
