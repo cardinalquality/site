@@ -26,10 +26,10 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-              Quality systems and Agile transformations that give product teams faster user insights,
-              predictable releases, and{' '}
-              <span className="font-bold text-primary-red">94% fewer bugs</span>.
-              Proven at Google, Fender, Output, and beyond.
+              Product and quality systems built on Agile transformations, shift-left testing, and
+              user validation frameworks. Track record includes{' '}
+              <span className="font-bold text-primary-red">94% bug reduction and 99% crash-free rates</span>.
+              Proven at Fender, Native Instruments, Output, and Offtop.
             </p>
 
             {/* CTAs */}
@@ -54,8 +54,8 @@ export default function Hero() {
             {/* Trust Signal */}
             <div className="pt-6 border-t border-gray-200">
               <p className="text-sm text-gray-600">
-                <span className="font-semibold text-dark-text">20 years</span> transforming
-                engineering teams at world-class companies
+                <span className="font-semibold text-dark-text">15 years</span> building product
+                and quality systems for music technology and SaaS companies
               </p>
             </div>
           </div>

@@ -7,10 +7,10 @@ export default function ExperienceFrom() {
             Experience From
           </p>
           <p className="text-2xl md:text-3xl font-bold text-dark-text">
-            Google <span className="text-primary-red">•</span> Fender{' '}
-            <span className="text-primary-red">•</span> Native Instruments{' '}
+            Fender <span className="text-primary-red">•</span> Native Instruments{' '}
             <span className="text-primary-red">•</span> EastWest{' '}
-            <span className="text-primary-red">•</span> Output
+            <span className="text-primary-red">•</span> Output{' '}
+            <span className="text-primary-red">•</span> Offtop
           </p>
         </div>
       </div>
