@@ -72,6 +72,12 @@ export default function About() {
                 <span className="font-semibold text-dark-text">right thing, the right way, at the right time</span>.
               </p>
 
+              <p>
+                I leverage <span className="font-semibold text-dark-text">AI-driven workflows, MCP integrations, and agentic tooling</span>{' '}
+                across everything I do to accelerate output and raise quality. This isn't theoretical - it's how I work every day,
+                from test creation and documentation to research synthesis and strategic reporting.
+              </p>
+
               <p className="pt-4">
                 <a
                   href="https://calendly.com/nick-cardinalquality/30min"

@@ -34,9 +34,9 @@ export default function Services() {
     },
     {
       icon: HiLightBulb,
-      title: 'Test Strategy & Modern Tooling',
+      title: 'AI-Augmented Workflows & Delivery',
       description:
-        'Build comprehensive test strategies using AI-assisted tools (ChatGPT, Claude, Cursor) to accelerate test creation, combined with proven automation frameworks (Playwright, Detox, Vitest). I help teams scale from zero to hundreds of tests in CI/CD pipelines with clear KPIs tracking coverage and quality trends.',
+        'Leverage AI-driven workflows, MCP integrations, and agentic tooling to dramatically accelerate output, from test creation and documentation to research synthesis and reporting. I help teams adopt AI to work faster and smarter, layered on top of proven automation and test-strategy fundamentals (Playwright, Detox, Vitest, CI/CD pipelines).',
     },
   ];
 
