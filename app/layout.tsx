@@ -3,13 +3,13 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Cardinal Quality Consulting | Quality Systems for Product Teams",
-  description: "20 years building quality frameworks at world-class companies. Agile transformations, user validation programs, and release systems that achieved 94% reduction in bugs.",
-  keywords: "quality consulting, QA consulting, engineering leadership, agile transformation, user validation, beta testing, release systems",
+  title: "Cardinal Quality Consulting | Product Validation & Platform Enablement",
+  description: "15 years building product validation systems, platform enablement programs, and release frameworks at enterprise scale. Proven at Autodesk, Output, Fender, and Google.",
+  keywords: "product operations, program management, platform enablement, user validation, beta programs, quality consulting, engineering leadership, agile transformation",
   authors: [{ name: "Cardinal Quality Consulting" }],
   openGraph: {
-    title: "Cardinal Quality Consulting | Quality Systems for Product Teams",
-    description: "Transform release chaos into predictable systems. 20 years of proven frameworks from Google, Fender, and Output.",
+    title: "Cardinal Quality Consulting | Product Validation & Platform Enablement",
+    description: "Building product validation, platform enablement, and release systems at enterprise scale. 15 years at Autodesk, Output, Fender, and Google.",
     url: "https://www.cardinalquality.com",
     siteName: "Cardinal Quality Consulting",
     locale: "en_US",
@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Cardinal Quality Consulting | Quality Systems for Product Teams",
-    description: "Transform release chaos into predictable systems. 20 years of proven frameworks.",
+    title: "Cardinal Quality Consulting | Product Validation & Platform Enablement",
+    description: "Product validation and platform enablement at enterprise scale. 15 years at Autodesk, Output, Fender, Google.",
   },
 };
 

@@ -16,9 +16,9 @@ export default function Outcomes() {
     },
     {
       icon: HiTrendingUp,
-      title: 'Scalable Systems',
+      title: 'Adoption at Scale',
       description:
-        'Agile practices, playbooks, and QA processes that grow with your team and maintain quality at any scale.',
+        'Platform enablement and cross-functional programs adopted across entire organizations—30+ teams, 450K+ users, and executive-level visibility.',
     },
   ];
 

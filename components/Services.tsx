@@ -6,13 +6,19 @@ export default function Services() {
       icon: HiClipboardCheck,
       title: 'Product & User Validation',
       description:
-        'Build company-wide user validation systems using Centercode and modern feedback frameworks. I helped Output establish beta programs that shaped MVP scope, informed roadmap priorities, and achieved executive adoption across departments—turning user insights into shared inputs for product decisions.',
+        'Build enterprise-scale validation platforms and beta programs using Centercode and modern frameworks. At Autodesk, I drive adoption across 450K+ users and 30+ product teams. At Output, I established beta programs from scratch that shaped MVP scope and achieved executive adoption—turning user insights into shared inputs for product decisions.',
+    },
+    {
+      icon: HiTrendingUp,
+      title: 'Strategic Product Leadership',
+      description:
+        'Embedded leadership for growth-stage companies. I translate user research into roadmaps, shape 0-to-1 products, advocate for data-driven launch decisions, and build organizational transformation systems that scale quality and velocity together.',
     },
     {
       icon: HiUsers,
       title: 'Engineering Leadership & OKRs',
       description:
-        'Scale teams with VP-level reporting frameworks, OKR systems, and structured performance coaching. I build QA organizations from scratch, establish career frameworks, and translate analytics insights into prioritized backlogs that align engineering, product, and business goals.',
+        'Scale teams with VP-level reporting frameworks, OKR systems, and structured performance coaching. I build organizations from scratch, establish career frameworks, and translate analytics insights into prioritized backlogs that align engineering, product, and business goals.',
     },
     {
       icon: HiCog,
@@ -21,22 +27,16 @@ export default function Services() {
         'Transform release chaos into confidence with shift-left practices and continuous delivery pipelines. I design release scorecards, go/no-go frameworks, and risk dashboards that achieved 87% regression reduction and 99% crash-free rates through proactive prevention.',
     },
     {
-      icon: HiLightBulb,
-      title: 'Test Strategy & Modern Tooling',
-      description:
-        'Build comprehensive test strategies using AI-assisted tools (ChatGPT, Claude, Cursor) to accelerate test creation, combined with proven automation frameworks (Playwright, Detox, Vitest). I help teams scale from zero to hundreds of tests in CI/CD pipelines with clear KPIs tracking coverage and quality trends.',
-    },
-    {
       icon: HiHeart,
       title: 'Build a Quality Culture',
       description:
         'Quality isn\'t just QA\'s job—it\'s everyone\'s. I help organizations establish company-wide quality standards, integrated workflows, and cross-functional collaboration models where engineering, product, and design share responsibility for customer outcomes.',
     },
     {
-      icon: HiTrendingUp,
-      title: 'Strategic Product Leadership',
+      icon: HiLightBulb,
+      title: 'Test Strategy & Modern Tooling',
       description:
-        'Embedded leadership for growth-stage companies. I translate user research into roadmaps, shape 0-to-1 products, advocate for data-driven launch decisions, and build organizational transformation systems that scale quality and velocity together.',
+        'Build comprehensive test strategies using AI-assisted tools (ChatGPT, Claude, Cursor) to accelerate test creation, combined with proven automation frameworks (Playwright, Detox, Vitest). I help teams scale from zero to hundreds of tests in CI/CD pipelines with clear KPIs tracking coverage and quality trends.',
     },
   ];
 

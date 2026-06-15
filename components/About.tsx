@@ -34,21 +34,31 @@ export default function About() {
               </h2>
 
               <p>
-                I've spent <span className="font-semibold text-dark-text">15 years</span> as a product
-                and quality systems architect at companies like Fender, Native Instruments, EastWest, and
-                Output. With a <span className="font-semibold text-dark-text">B.S. in Electrical Engineering</span> from
-                the University of Miami, I bring a technical foundation to strategic product decisions—from
-                shaping 0-to-1 product launches to building company-wide validation frameworks.
+                I've spent <span className="font-semibold text-dark-text">15 years</span> as a product validation and platform
+                enablement leader at companies like Autodesk, Output, Fender, Native Instruments, and Google. With a{' '}
+                <span className="font-semibold text-dark-text">B.S. in Electrical Engineering</span> from the University of Miami,
+                I bring a technical foundation to strategic product decisions—from shaping 0-to-1 product launches to building
+                enterprise-scale validation programs.
               </p>
 
               <p>
-                My work focuses on <span className="font-semibold text-dark-text">Agile transformations</span>,
-                <span className="font-semibold text-dark-text">shift-left practices</span>, and{' '}
-                <span className="font-semibold text-dark-text">OKR frameworks</span> that translate user insights into
-                prioritized roadmaps. At Output, I reported directly to the VP of Engineering, built beta programs using{' '}
-                <span className="font-semibold text-dark-text">Centercode</span> that shaped product direction, and
-                achieved a <span className="font-semibold text-primary-red">94% reduction in bugs</span> through
-                structured prevention systems.
+                Currently at <span className="font-semibold text-dark-text">Autodesk</span>, I drive enablement and adoption of an
+                enterprise customer-validation platform across a{' '}
+                <span className="font-semibold text-dark-text">450,000+ user community and 30+ product teams</span>. I've built
+                automated leadership reporting from scratch, delivered platform integrations that had stalled for months (completed
+                in a week), led migrations teams had wanted for years, and presented platform impact and multi-year strategic roadmaps
+                to senior leadership. This is platform enablement at enterprise scale—turning an underutilized tool into a structured
+                program with exec-level visibility.
+              </p>
+
+              <p>
+                My work focuses on <span className="font-semibold text-dark-text">cross-functional program building</span>,{' '}
+                <span className="font-semibold text-dark-text">Agile transformations</span>, and{' '}
+                <span className="font-semibold text-dark-text">OKR frameworks</span> that translate user insights into prioritized
+                roadmaps. At Output, I reported directly to the VP of Engineering, built beta programs using{' '}
+                <span className="font-semibold text-dark-text">Centercode</span> from the ground up that shaped product direction,
+                and achieved a <span className="font-semibold text-primary-red">94% reduction in bugs</span> through structured
+                prevention systems.
               </p>
 
               <p>
