@@ -10,7 +10,7 @@ export default function About() {
             <blockquote className="text-2xl md:text-3xl font-bold text-dark-text italic leading-relaxed">
               "You do not rise to the level of your goals. You fall to the level of your systems."
             </blockquote>
-            <p className="text-lg text-gray-600 mt-4">— James Clear, Atomic Habits</p>
+            <p className="text-lg text-gray-600 mt-4">- James Clear, Atomic Habits</p>
           </div>
 
           {/* About Content */}
@@ -37,7 +37,7 @@ export default function About() {
                 I've spent <span className="font-semibold text-dark-text">15 years</span> as a product validation and platform
                 enablement leader at companies like Autodesk, Output, Fender, Native Instruments, and Google. With a{' '}
                 <span className="font-semibold text-dark-text">B.S. in Electrical Engineering</span> from the University of Miami,
-                I bring a technical foundation to strategic product decisions—from shaping 0-to-1 product launches to building
+                I bring a technical foundation to strategic product decisions, from shaping 0-to-1 product launches to building
                 enterprise-scale validation programs.
               </p>
 
@@ -47,7 +47,7 @@ export default function About() {
                 <span className="font-semibold text-dark-text">450,000+ user community and 30+ product teams</span>. I've built
                 automated leadership reporting from scratch, delivered platform integrations that had stalled for months (completed
                 in a week), led migrations teams had wanted for years, and presented platform impact and multi-year strategic roadmaps
-                to senior leadership. This is platform enablement at enterprise scale—turning an underutilized tool into a structured
+                to senior leadership. This is platform enablement at enterprise scale, turning an underutilized tool into a structured
                 program with exec-level visibility.
               </p>
 
@@ -63,12 +63,12 @@ export default function About() {
               <p>
                 I've successfully advocated to drop undercooked features pre-launch based on data, championed
                 continuous delivery adoption, and built repeatable processes that teams actually follow. I help
-                organizations build systems where quality and velocity work together—not against each other.
+                organizations build systems where quality and velocity work together, not against each other.
               </p>
 
               <p>
                 My approach is holistic: I think about the customer, the developer, and the team. Because
-                quality isn't just about catching bugs—it's about building the{' '}
+                quality isn't just about catching bugs - it's about building the{' '}
                 <span className="font-semibold text-dark-text">right thing, the right way, at the right time</span>.
               </p>
 

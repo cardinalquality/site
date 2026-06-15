@@ -6,7 +6,7 @@ export default function Services() {
       icon: HiClipboardCheck,
       title: 'Product & User Validation',
       description:
-        'Build enterprise-scale validation platforms and beta programs that surface feedback early and turn user insights into product direction. At Autodesk, I drive adoption of an enterprise validation platform across 450K+ users and 30+ product teams. At Output, I established beta programs from scratch that shaped MVP scope and achieved executive adoption—turning user insights into shared inputs for product decisions.',
+        'Build enterprise-scale validation platforms and beta programs that surface feedback early and turn user insights into product direction. At Autodesk, I drive adoption of an enterprise validation platform across 450K+ users and 30+ product teams. At Output, I established beta programs from scratch that shaped MVP scope and achieved executive adoption, turning user insights into shared inputs for product decisions.',
     },
     {
       icon: HiTrendingUp,
@@ -30,7 +30,7 @@ export default function Services() {
       icon: HiHeart,
       title: 'Build a Quality Culture',
       description:
-        'Quality isn\'t just QA\'s job—it\'s everyone\'s. I help organizations establish company-wide quality standards, integrated workflows, and cross-functional collaboration models where engineering, product, and design share responsibility for customer outcomes.',
+        'Quality isn\'t just QA\'s job - it\'s everyone\'s. I help organizations establish company-wide quality standards, integrated workflows, and cross-functional collaboration models where engineering, product, and design share responsibility for customer outcomes.',
     },
     {
       icon: HiLightBulb,

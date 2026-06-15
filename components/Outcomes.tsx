@@ -18,7 +18,7 @@ export default function Outcomes() {
       icon: HiTrendingUp,
       title: 'Adoption at Scale',
       description:
-        'Platform enablement and cross-functional programs adopted across entire organizations—30+ teams, 450K+ users, and executive-level visibility.',
+        'Platform enablement and cross-functional programs adopted across entire organizations: 30+ teams, 450K+ users, and executive-level visibility.',
     },
   ];
 

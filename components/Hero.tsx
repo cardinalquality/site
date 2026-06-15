@@ -26,7 +26,7 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-              I build the programs, processes, and platforms that help product teams ship the right thing, faster—product
+              I build the programs, processes, and platforms that help product teams ship the right thing, faster: product
               validation systems, platform enablement at scale, and release frameworks. Track record includes{' '}
               <span className="font-bold text-primary-red">94% bug reduction and 99% crash-free rates</span>.
               Proven at Autodesk, Output, Fender, and Google.
