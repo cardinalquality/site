@@ -55,10 +55,9 @@ export default function About() {
                 My work focuses on <span className="font-semibold text-dark-text">cross-functional program building</span>,{' '}
                 <span className="font-semibold text-dark-text">Agile transformations</span>, and{' '}
                 <span className="font-semibold text-dark-text">OKR frameworks</span> that translate user insights into prioritized
-                roadmaps. At Output, I reported directly to the VP of Engineering, built beta programs using{' '}
-                <span className="font-semibold text-dark-text">Centercode</span> from the ground up that shaped product direction,
-                and achieved a <span className="font-semibold text-primary-red">94% reduction in bugs</span> through structured
-                prevention systems.
+                roadmaps. At Output, I reported directly to the VP of Engineering, built enterprise beta and validation programs
+                from the ground up that shaped product direction, and achieved a{' '}
+                <span className="font-semibold text-primary-red">94% reduction in bugs</span> through structured prevention systems.
               </p>
 
               <p>

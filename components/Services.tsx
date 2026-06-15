@@ -6,7 +6,7 @@ export default function Services() {
       icon: HiClipboardCheck,
       title: 'Product & User Validation',
       description:
-        'Build enterprise-scale validation platforms and beta programs using Centercode and modern frameworks. At Autodesk, I drive adoption across 450K+ users and 30+ product teams. At Output, I established beta programs from scratch that shaped MVP scope and achieved executive adoption—turning user insights into shared inputs for product decisions.',
+        'Build enterprise-scale validation platforms and beta programs that surface feedback early and turn user insights into product direction. At Autodesk, I drive adoption of an enterprise validation platform across 450K+ users and 30+ product teams. At Output, I established beta programs from scratch that shaped MVP scope and achieved executive adoption—turning user insights into shared inputs for product decisions.',
     },
     {
       icon: HiTrendingUp,
