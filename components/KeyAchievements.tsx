@@ -1,19 +1,19 @@
 export default function KeyAchievements() {
-  const stats = [
+  const capabilities = [
     {
-      number: '450K+',
-      label: 'User Community Enabled',
-      description: 'Enterprise validation platform adopted across 30+ product teams at scale',
+      title: 'Process from Chaos',
+      description:
+        'I bring structure to teams operating in chaos, establishing the sprint processes, delivery workflows, and operational backbone that let teams ship predictably.',
     },
     {
-      number: '99%',
-      label: 'Crash-Free Rate',
-      description: 'Achieved through structured quality frameworks and continuous delivery',
+      title: 'AI Workflows & Automation',
+      description:
+        'I design custom AI workflows and MCP integrations that automate high-friction work, and build automation and quality frameworks from scratch, so teams move faster and scale without breaking.',
     },
     {
-      number: '30+',
-      label: 'Product Teams',
-      description: 'Cross-functional adoption of validation programs and platform enablement',
+      title: 'User Validation & Beta Programs',
+      description:
+        'I help teams build the right thing by putting the right validation in place, from beta programs to user research, connecting teams with the people whose feedback actually shapes better products.',
     },
   ];
 
@@ -21,18 +21,17 @@ export default function KeyAchievements() {
     <section className="section-padding bg-primary-red text-white">
       <div className="container-custom">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Proven Impact</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">How I Drive Impact</h2>
           <p className="text-lg md:text-xl text-white/90">
-            Real results from real transformations
+            What I bring to product and engineering teams
           </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-12">
-          {stats.map((stat, index) => (
+          {capabilities.map((capability, index) => (
             <div key={index} className="text-center">
-              <div className="text-5xl md:text-6xl font-bold mb-3">{stat.number}</div>
-              <div className="text-xl font-semibold mb-2">{stat.label}</div>
-              <div className="text-white/80">{stat.description}</div>
+              <div className="text-2xl font-bold mb-4">{capability.title}</div>
+              <div className="text-white/90 leading-relaxed">{capability.description}</div>
             </div>
           ))}
         </div>
