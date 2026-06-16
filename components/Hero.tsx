@@ -54,7 +54,7 @@ export default function Hero() {
             <div className="pt-6 border-t border-gray-200">
               <p className="text-sm text-gray-600">
                 <span className="font-semibold text-dark-text">20 years</span> building product
-                and quality systems for music technology and SaaS companies
+                and quality systems for technology and SaaS companies
               </p>
             </div>
           </div>
