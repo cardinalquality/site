@@ -26,11 +26,17 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-              I build the programs, processes, and platforms that help product teams ship the right thing, faster: product
-              validation systems, platform enablement at scale, and release frameworks. Track record includes{' '}
-              <span className="font-bold text-primary-red">94% bug reduction and 99% crash-free rates</span>.
-              Proven at Autodesk, Output, Fender, and Google.
+              Product and platform-enablement leader with <span className="font-bold text-dark-text">15 years</span> building
+              validation programs, release systems, and cross-functional process at companies like Autodesk, Output, and Fender.
+              Now powered by AI-augmented workflows.
             </p>
+
+            {/* Proof line */}
+            <div className="text-base md:text-lg text-gray-600 space-y-1">
+              <p><span className="font-semibold text-dark-text">450,000+ user community</span> enabled</p>
+              <p><span className="font-semibold text-dark-text">30+ product teams</span></p>
+              <p><span className="font-semibold text-dark-text">Enterprise validation programs</span> built from scratch</p>
+            </div>
 
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4 pt-4">

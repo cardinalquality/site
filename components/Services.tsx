@@ -34,9 +34,9 @@ export default function Services() {
     },
     {
       icon: HiLightBulb,
-      title: 'AI-Augmented Workflows & Delivery',
+      title: 'AI-Augmented Workflows & Automation',
       description:
-        'Leverage AI-driven workflows, MCP integrations, and agentic tooling to dramatically accelerate output, from test creation and documentation to research synthesis and reporting. I help teams adopt AI to work faster and smarter, layered on top of proven automation and test-strategy fundamentals (Playwright, Detox, Vitest, CI/CD pipelines).',
+        'Design and build custom AI workflows and MCP integrations that automate and streamline high-friction tasks, from research synthesis and documentation to reporting, test creation, and cross-tool orchestration. Leverage the latest in AI and agentic tooling to help teams dramatically accelerate output and raise quality, layered on proven automation and test-strategy fundamentals.',
     },
   ];
 

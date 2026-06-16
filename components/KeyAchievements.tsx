@@ -1,9 +1,9 @@
 export default function KeyAchievements() {
   const stats = [
     {
-      number: '94%',
-      label: 'Reduction in New Bugs',
-      description: 'Through shift-left testing and proactive prevention systems',
+      number: '450K+',
+      label: 'User Community Enabled',
+      description: 'Enterprise validation platform adopted across 30+ product teams at scale',
     },
     {
       number: '99%',
@@ -11,9 +11,9 @@ export default function KeyAchievements() {
       description: 'Achieved through structured quality frameworks and continuous delivery',
     },
     {
-      number: '87%',
-      label: 'Fewer Regressions',
-      description: 'By building release confidence scorecards and risk dashboards',
+      number: '30+',
+      label: 'Product Teams',
+      description: 'Cross-functional adoption of validation programs and platform enablement',
     },
   ];
 
