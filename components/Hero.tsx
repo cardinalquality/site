@@ -26,17 +26,10 @@ export default function Hero() {
 
             {/* Subheadline */}
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
-              Product and platform-enablement leader with <span className="font-bold text-dark-text">15 years</span> building
-              validation programs, release systems, and cross-functional process at companies like Autodesk, Output, and Fender.
-              Now powered by AI-augmented workflows.
+              I build the validation programs, release systems, and AI-driven workflows that help product teams ship
+              better software, faster. <span className="font-bold text-dark-text">Twenty years</span> doing it at companies
+              like Autodesk, Fender, and Output.
             </p>
-
-            {/* Proof line */}
-            <div className="text-base md:text-lg text-gray-600 space-y-1">
-              <p><span className="font-semibold text-dark-text">450,000+ user community</span> enabled</p>
-              <p><span className="font-semibold text-dark-text">30+ product teams</span></p>
-              <p><span className="font-semibold text-dark-text">Enterprise validation programs</span> built from scratch</p>
-            </div>
 
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
@@ -60,7 +53,7 @@ export default function Hero() {
             {/* Trust Signal */}
             <div className="pt-6 border-t border-gray-200">
               <p className="text-sm text-gray-600">
-                <span className="font-semibold text-dark-text">15 years</span> building product
+                <span className="font-semibold text-dark-text">20 years</span> building product
                 and quality systems for music technology and SaaS companies
               </p>
             </div>

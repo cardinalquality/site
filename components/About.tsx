@@ -34,7 +34,7 @@ export default function About() {
               </h2>
 
               <p>
-                I've spent <span className="font-semibold text-dark-text">15 years</span> as a product validation and platform
+                I've spent <span className="font-semibold text-dark-text">20 years</span> as a product validation and platform
                 enablement leader at companies like Autodesk, Output, Fender, Native Instruments, and Google. With a{' '}
                 <span className="font-semibold text-dark-text">B.S. in Electrical Engineering</span> from the University of Miami,
                 I bring a technical foundation to strategic product decisions, from shaping 0-to-1 product launches to building
